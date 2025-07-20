@@ -1,4 +1,4 @@
-DB_HOST = '127.0.0.1' 
-DB_USERNAME = 'root'
-DB_PASSWORD = '1Arya(n)@'
+DB_HOST = '____' 
+DB_USERNAME = '___'
+DB_PASSWORD = '___'
 DB_NAME = 'SALE_AND_PRODUCT_MANAGER'
