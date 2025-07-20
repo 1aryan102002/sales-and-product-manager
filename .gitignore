@@ -1,0 +1,8 @@
+sale and management database.sql
+# Ignore database files
+_pycache_
+# Ignore Python bytecode files
+.vscode
+# Ignore Visual Studio Code settings
+.venv
+# Ignore virtual environment directory
