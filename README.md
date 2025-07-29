@@ -155,7 +155,7 @@ CREATE TABLE users (
 **Aryan (aka Aelu )**  
 🎮 junior Backend engineer and Game/Level Designer & Developer  
 💻 Python | Unreal | SQL | Unity | Power-Bi | C++ | C# | c | DSA
-📫 Reach me at: aeluaryan04@gmail.com 
+📫 Reach me at: aryansharma102003@gmail.com 
 🌐 Portfolio: Coming soon! but here is my level design portfolio :- https://splendid-imagine-714456.framer.app/
 
 
